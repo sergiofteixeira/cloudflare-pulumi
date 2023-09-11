@@ -1,0 +1,3 @@
+name: cloudflare-pulumi
+runtime: go
+description: cloudflare pulumi configs
